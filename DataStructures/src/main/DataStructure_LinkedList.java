@@ -22,7 +22,7 @@ public class DataStructure_LinkedList {
         System.out.println();
 
         // Access elements to the list
-        System.out.println("Second element: " + linkedList.get(1));
+        System.out.println("Second element: " + linkedList.get(2));
 
         // Remove an element from the list
         linkedList.remove(1);
