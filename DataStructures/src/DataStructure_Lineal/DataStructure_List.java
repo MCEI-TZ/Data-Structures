@@ -1,4 +1,4 @@
-package main;
+package DataStructure_Lineal;
 
 import java.util.ArrayList;
 import java.util.List;
